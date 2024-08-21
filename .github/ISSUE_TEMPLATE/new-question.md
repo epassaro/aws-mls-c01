@@ -29,4 +29,5 @@ assignees: ''
  <!--- Describir cómo se razona la solución a la pregunta --->
 </details>
 
- <!--- Añadir dominio y dificultad con las etiquetas --->
+ <!--- Asignar dominio y dificultad a través de etiquetas --->
+ <!--- Asignar cuestionario correspondiente a través de proyectos --->
